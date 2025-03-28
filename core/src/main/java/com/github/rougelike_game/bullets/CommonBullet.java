@@ -10,6 +10,9 @@ public class CommonBullet extends Projectile {
     public CommonBullet(Vector2 position, Vector2 direction, String textureName) {
         super(position, direction);
         bulletTexture = new Texture(textureName);
+        this.position.sub(bulletTexture.getWidth() / 2, bulletTexture.getHeight() / 2);
+        speed = 3.0f;
+        this.direction.setLength(speed);
     }
 
     public void render(Batch batch) {

@@ -48,7 +48,7 @@ public class KeyboardAdapter extends InputAdapter {
 
     @Override
     public boolean mouseMoved(int screenX, int screenY) {
-        mousePos.set(screenX, screenY);
+        mousePos.set(screenX, Math.abs(screenY - Gdx.graphics.getHeight()));
 
         return false;
     }

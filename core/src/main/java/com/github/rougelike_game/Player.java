@@ -7,10 +7,13 @@ import com.badlogic.gdx.math.Vector2;
 public class Player {
     private final Vector2 position = new Vector2();
     private final Texture texture;
+    private final Vector2 center = new Vector2();
     private final Vector2 angle = new Vector2();
+    private final float moveSpeed = 2;
 
     public Player(float x, float y) {
         texture = new Texture("player.png");
+        center.set(texture.getWidth() / 2 + x, texture.getHeight() / 2 + y);
         position.set(x, y);
     }
 
@@ -23,7 +26,7 @@ public class Player {
     }
 
     public void moveTo(Vector2 direction) {
-        position.add(direction);
+        position.add(direction.setLength(moveSpeed));
     }
 
     public void rotateTo(Vector2 direction) {
@@ -32,5 +35,10 @@ public class Player {
 
     public Vector2 getPosition() {
         return position;
+    }
+
+    public Vector2 getCenter() {
+        center.set(texture.getWidth() / 2 + position.x, texture.getHeight() / 2 + position.y);
+        return center;
     }
 }

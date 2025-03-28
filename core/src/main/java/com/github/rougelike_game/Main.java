@@ -5,6 +5,7 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.utils.Array;
 import com.badlogic.gdx.utils.ScreenUtils;
 import com.github.rougelike_game.bullets.CommonBullet;
@@ -28,7 +29,17 @@ public class Main extends ApplicationAdapter {
         if (inputProcessor.isLeftMouseButtonPressed()) {
             if (bulletFlag) {
                 System.out.println("Left MB is pressed");
-                all_bullets.add(new CommonBullet(player.getPosition(), mousePosition.sub(player.getPosition()), "common_bullet.png"));
+                Vector2 bulletDirection = new Vector2(mousePosition);
+                Vector2 bulletPosition = new Vector2(player.getCenter());
+
+                bulletDirection.sub(bulletPosition);
+
+
+                System.out.println("mouse pos = " + mousePosition);
+                System.out.println("bullet start pos = " + bulletPosition);
+                System.out.println("bullet direction = " + bulletDirection);
+
+                all_bullets.add(new CommonBullet(bulletPosition, bulletDirection, "common_bullet.png"));
                 bulletFlag = false;
             }
         }

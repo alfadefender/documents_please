@@ -11,7 +11,7 @@ public class Projectile {
     protected Projectile(Vector2 position, Vector2 direction) {
         this.position.set(position);
         this.direction.set(direction);
-        this.speed = 0.5f;
+        this.speed = 1f;
         this.direction.setLength(this.speed);
     }
 
