@@ -25,6 +25,10 @@ public class Main extends ApplicationAdapter {
     private Array<Entity> entities;
     private boolean bulletFlag = true;
 
+    // отсюда предлагаю выкинуть всю эту херню в Spectator и Room соответственно
+    // оставить тут лишь GUI и взаимодействие всех модулей
+    // в Room.dispose() подробно описал проблему с картинками и методами <dispose>
+
     public void playerBehaivor() {
         player.moveTo(inputProcessor.getDirection());
         var mousePosition = inputProcessor.getMousePosition();
