@@ -31,17 +31,3 @@ Useful Gradle tasks and flags:
 
 Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
 For example, `core:clean` removes `build` folder only from the `core` project.
-
-
-План:
-1) Создание противника, возможность с ним взаимодействовать
-2) Создание локаций, нпс, объектов для взаимодействия
-3) Реализация предметов, различного оружия
-4) Добавление дополнительных механик передвижения и взаимодействия для игрока
-
-Идеи:
-1. При старте нового забега, раса зависит от некоторых условий прошлого забега
-2. -> земля -> вода -> огонь -> (воздух???)
-3. вид сверху
-4. камера за игроком (комната может быть больше чем камера)
-5. 
