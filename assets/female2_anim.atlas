@@ -1,0 +1,705 @@
+female2_anim.png
+size: 3900, 3200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+female2_accepted1
+  rotate: false
+  xy: 0, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted2
+  rotate: false
+  xy: 300, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted3
+  rotate: false
+  xy: 600, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted4
+  rotate: false
+  xy: 900, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted5
+  rotate: false
+  xy: 1200, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted6
+  rotate: false
+  xy: 1500, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted7
+  rotate: false
+  xy: 1800, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted8
+  rotate: false
+  xy: 2100, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted9
+  rotate: false
+  xy: 2400, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted10
+  rotate: false
+  xy: 2700, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted11
+  rotate: false
+  xy: 3000, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted12
+  rotate: false
+  xy: 3300, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted13
+  rotate: false
+  xy: 3600, 0
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted14
+  rotate: false
+  xy: 0, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted15
+  rotate: false
+  xy: 300, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted16
+  rotate: false
+  xy: 600, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted17
+  rotate: false
+  xy: 900, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted18
+  rotate: false
+  xy: 1200, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted19
+  rotate: false
+  xy: 1500, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted20
+  rotate: false
+  xy: 1800, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted21
+  rotate: false
+  xy: 2100, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted22
+  rotate: false
+  xy: 2400, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted23
+  rotate: false
+  xy: 2700, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted24
+  rotate: false
+  xy: 3000, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted25
+  rotate: false
+  xy: 3300, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted26
+  rotate: false
+  xy: 3600, 400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted27
+  rotate: false
+  xy: 0, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted28
+  rotate: false
+  xy: 300, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted29
+  rotate: false
+  xy: 600, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_accepted30
+  rotate: false
+  xy: 900, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline1
+  rotate: false
+  xy: 1200, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline2
+  rotate: false
+  xy: 1500, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline3
+  rotate: false
+  xy: 1800, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline4
+  rotate: false
+  xy: 2100, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline5
+  rotate: false
+  xy: 2400, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline6
+  rotate: false
+  xy: 2700, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline7
+  rotate: false
+  xy: 3000, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline8
+  rotate: false
+  xy: 3300, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline9
+  rotate: false
+  xy: 3600, 800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline10
+  rotate: false
+  xy: 0, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline11
+  rotate: false
+  xy: 300, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline12
+  rotate: false
+  xy: 600, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline13
+  rotate: false
+  xy: 900, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline14
+  rotate: false
+  xy: 1200, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline15
+  rotate: false
+  xy: 1500, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline16
+  rotate: false
+  xy: 1800, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline17
+  rotate: false
+  xy: 2100, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline18
+  rotate: false
+  xy: 2400, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline19
+  rotate: false
+  xy: 2700, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline20
+  rotate: false
+  xy: 3000, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline21
+  rotate: false
+  xy: 3300, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline22
+  rotate: false
+  xy: 3600, 1200
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline23
+  rotate: false
+  xy: 0, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline24
+  rotate: false
+  xy: 300, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline25
+  rotate: false
+  xy: 600, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline26
+  rotate: false
+  xy: 900, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline27
+  rotate: false
+  xy: 1200, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline28
+  rotate: false
+  xy: 1500, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline29
+  rotate: false
+  xy: 1800, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_decline30
+  rotate: false
+  xy: 2100, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle1
+  rotate: false
+  xy: 2400, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle2
+  rotate: false
+  xy: 2700, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle3
+  rotate: false
+  xy: 3000, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle4
+  rotate: false
+  xy: 3300, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle5
+  rotate: false
+  xy: 3600, 1600
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle6
+  rotate: false
+  xy: 0, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle7
+  rotate: false
+  xy: 300, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle8
+  rotate: false
+  xy: 600, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle9
+  rotate: false
+  xy: 900, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_idle10
+  rotate: false
+  xy: 1200, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in1
+  rotate: false
+  xy: 1500, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in2
+  rotate: false
+  xy: 1800, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in3
+  rotate: false
+  xy: 2100, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in4
+  rotate: false
+  xy: 2400, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in5
+  rotate: false
+  xy: 2700, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in6
+  rotate: false
+  xy: 3000, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in7
+  rotate: false
+  xy: 3300, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in8
+  rotate: false
+  xy: 3600, 2000
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in9
+  rotate: false
+  xy: 0, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in10
+  rotate: false
+  xy: 300, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in11
+  rotate: false
+  xy: 600, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in12
+  rotate: false
+  xy: 900, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in13
+  rotate: false
+  xy: 1200, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in14
+  rotate: false
+  xy: 1500, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in15
+  rotate: false
+  xy: 1800, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in16
+  rotate: false
+  xy: 2100, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in17
+  rotate: false
+  xy: 2400, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in18
+  rotate: false
+  xy: 2700, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in19
+  rotate: false
+  xy: 3000, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in20
+  rotate: false
+  xy: 3300, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in21
+  rotate: false
+  xy: 3600, 2400
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in22
+  rotate: false
+  xy: 0, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in23
+  rotate: false
+  xy: 300, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in24
+  rotate: false
+  xy: 600, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in25
+  rotate: false
+  xy: 900, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in26
+  rotate: false
+  xy: 1200, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in27
+  rotate: false
+  xy: 1500, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in28
+  rotate: false
+  xy: 1800, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in29
+  rotate: false
+  xy: 2100, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+female2_walking_in30
+  rotate: false
+  xy: 2400, 2800
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1

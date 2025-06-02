@@ -1,0 +1,41 @@
+{
+    "com.badlogic.gdx.graphics.Color": {
+        "white": { "r": 1, "g": 1, "b": 1, "a": 1 },
+        "black": { "r": 0, "g": 0, "b": 0, "a": 1 },
+        "red": { "r": 1, "g": 0, "b": 0, "a": 1 }
+    },
+    "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "default-font": {
+            "file": "default.fnt",
+            "flip": false
+        }
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+        "default": {
+            "up": "button_default",
+            "down": "button_hover",
+            "font": "default-font",
+            "fontColor": "white",
+            "downFontColor": "black",
+            "overFontColor": "red"
+        },
+        "play": {
+            "up": "button_play_default",
+            "down": "button_play_hover",
+            "font": "default-font",
+            "fontColor": "white"
+        },
+        "quit": {
+            "up": "button_quit_default",
+            "down": "button_quit_hover",
+            "font": "default-font",
+            "fontColor": "white"
+        }
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+        "default": {
+            "imageUp": "button_default",
+            "imageDown": "button_hover"
+        }
+    }
+}
